@@ -25,7 +25,7 @@ If it doesn't let you run the command, type this:
 chmod +x install.sh
 ```
 
-After you run it, you might get a message asking you to add a line to bashrc or zshrc. I really recommend copying that line and pasting it into the terminal, so you don't have to modify that file. If you do want to change zshrc or bashrc (which I doubt), use a text editor, open that file, and paste the line. Example:
+After you run it, you might get a message asking you to add a line to bashrc or zshrc. To quit this error, use a text editor, open that file, and paste the line. Example:
 
 ```
 nano ~/.zshrc
@@ -92,7 +92,7 @@ Si no te deja ejecutar el comando, pon esto:
 chmod +x install.sh
 ```
 
-Después de que lo ejecutes, posiblemente te salga un mensaje diciendo que pongan una linea en bashrc o zshrc, realmente recomiendo mejor copiar esa linea y pegarla en la terminal, asi no tienen que modificar ese archivo. En el caso que si quieras cambiar el zshrc o bashrc (que lo dudo), usa algun editor de texto y abre ese archivo, y pegas la linea. Ejemplo:
+Después de que lo ejecutes, posiblemente te salga un mensaje diciendo que pongan una linea en bashrc o zshrc. Para quitar este error, usa algun editor de texto y abre ese archivo, y pegas la linea. Ejemplo:
 
 ```
 nano ~/.zshrc
