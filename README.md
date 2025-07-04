@@ -13,4 +13,10 @@ terminal tienen que navegar con "cd" a la ruta donde esta el archivo descomprimi
 
 './install.sh'
 
+Si no les deja ejecutar el comando, pongan esto:
+
+'chmod +x install.sh'
+
+Después de que lo ejecuten, posiblemente les salga un mensaje dici
+
 
