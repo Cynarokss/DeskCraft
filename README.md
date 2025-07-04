@@ -86,7 +86,7 @@ terminal tienes que navegar con "cd" a la ruta donde esta el archivo descomprimi
 ./install.sh
 ```
 
-Si no les deja ejecutar el comando, pon esto:
+Si no te deja ejecutar el comando, pon esto:
 
 ```
 chmod +x install.sh
@@ -108,7 +108,7 @@ Para desinstalar deskcraft, simplemente navegas con "cd" a la carpeta donde se e
 ./uninstall.sh
 ```
 
-Si no les deja, simplemente pones esto:
+Si no te deja, simplemente pones esto:
 
 ```
 chmod +x uninstall.sh
@@ -124,7 +124,7 @@ Usarlo es bastante simple. En una terminal, pon este comando:
 deskcraft
 ```
 
-Se les deberia abrir un menú con varias opciones, para crear un .desktop, pulsas la opción 1 y le das enter. Ahora, una vez puesto eso, tienes que poner el nombre del programa, el que aparecera cuando lo busques. Luego, les pedira la ruta del ejecutable, NO uses ~/ para referenciar home, hazlo directamente con /home/tu_usuario. Hay varios tipos de archivos que se suelen usar de ejecutables, los más populares, según yo, son scripts .sh y aplicaciones .AppImage, aunque seguramente hayan más. Luego te pedira el icono, de icono recomiendo que tenga de 48x48 pixeles a 128x128 pixeles, aunque no hay limite. En este paso también te pide la ruta, asi que igualmente no referencies home con ~/, hazlo con /home/tu_usuario. Luego te pedira la categoría, aca no hay mucho misterio, simplemente es poner una de las siguientes: AudioVideo, Development, Education, Game, Graphics, Networks, Office, Science, Settings, System, Utility. Luego te pedira el comentario, que realmente no importa mucho, pon lo que quieras. Luego te pedira si quieres que la aplicación sea en terminal o no, esto depende la aplicación a la cual le estas haciendo .dekstop, mayoritariamente es false aunque también puede ser true. Y por ultimo, te pedira que pongas que tipo de aplicación quieres, normalmente es Application. 
+te deberia abrir un menú con varias opciones, para crear un .desktop, pulsas la opción 1 y le das enter. Ahora, una vez puesto eso, tienes que poner el nombre del programa, el que aparecera cuando lo busques. Luego, les pedira la ruta del ejecutable, NO uses ~/ para referenciar home, hazlo directamente con /home/tu_usuario. Hay varios tipos de archivos que se suelen usar de ejecutables, los más populares, según yo, son scripts .sh y aplicaciones .AppImage, aunque seguramente hayan más. Luego te pedira el icono, de icono recomiendo que tenga de 48x48 pixeles a 128x128 pixeles, aunque no hay limite. En este paso también te pide la ruta, asi que igualmente no referencies home con ~/, hazlo con /home/tu_usuario. Luego te pedira la categoría, aca no hay mucho misterio, simplemente es poner una de las siguientes: AudioVideo, Development, Education, Game, Graphics, Networks, Office, Science, Settings, System, Utility. Luego te pedira el comentario, que realmente no importa mucho, pon lo que quieras. Luego te pedira si quieres que la aplicación sea en terminal o no, esto depende la aplicación a la cual le estas haciendo .dekstop, mayoritariamente es false aunque también puede ser true. Y por ultimo, te pedira que pongas que tipo de aplicación quieres, normalmente es Application. 
 
 ## Final
 
