@@ -7,6 +7,10 @@ Since I'm very new to programming and this application was created in a very sho
 The idea is to make it easier to create launchers without having to edit files manually.
 It should work on any Linux distribution, but since I don't have the ability to test outside of my primary operating system (Arch Linux), I'm not 100% sure it will work.
 
+## Requirements
+
+Python 3.13+
+
 ## Installation
 
 To install DeskCraft, simply download the release corresponding to your language (I don't know if I'll add more), unzip the downloaded file, and open a terminal. In this terminal, navigate to the path where the unzipped file is located with "cd." Once there, you have to run this command:
@@ -69,6 +73,10 @@ La idea es facilitar la creación de lanzadores sin tener que editar archivos a 
 Debería funcionar en cualquier distribución de Linux, pero como no tengo la posibilidad de testear fuera de mi sistema operativo principal (Arch Linux), no estoy 100% seguro de
 que funcione.
 
+## Requisitos
+
+Python 3.13+
+
 ## Instalación
 
 Para instalar DeskCraft, simplemente descargas la release correspondiente a tu idioma (no se si añadire más), descomprime el archivo descargado y abre una terminal. En esta 
@@ -121,7 +129,6 @@ Se les deberia abrir un menú con varias opciones, para crear un .desktop, pulsa
 ## Final
 
 Espero que les guste la aplicación, si encuentras algún error o tienes alguna duda, agradeceria mucho que lo comentaras para arreglarlo o responderte. ¡Que pases bien día, tarde, o noche!
-
 
 
 
