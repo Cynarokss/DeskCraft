@@ -24,7 +24,7 @@ chmod +x install.sh
 After you run it, you might get a message asking you to add a line to bashrc or zshrc. I really recommend copying that line and pasting it into the terminal, so you don't have to modify that file. If you do want to change zshrc or bashrc (which I doubt), use a text editor, open that file, and paste the line. Example:
 
 ```
-nano ~/zshrc
+nano ~/.zshrc
 ```
 
 If the installation went well, you can type "deskcraft" in the terminal and start using it.
@@ -87,7 +87,7 @@ chmod +x install.sh
 Después de que lo ejecutes, posiblemente te salga un mensaje diciendo que pongan una linea en bashrc o zshrc, realmente recomiendo mejor copiar esa linea y pegarla en la terminal, asi no tienen que modificar ese archivo. En el caso que si quieras cambiar el zshrc o bashrc (que lo dudo), usa algun editor de texto y abre ese archivo, y pegas la linea. Ejemplo:
 
 ```
-nano ~/zshrc
+nano ~/.zshrc
 ```
 
 Ya si la instalación salió bien, podras poner "deskcraft" en la terminal y empezar a usarlo.
