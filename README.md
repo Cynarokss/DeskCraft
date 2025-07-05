@@ -31,6 +31,12 @@ After you run it, you might get a message asking you to add a line to bashrc or 
 nano ~/.zshrc
 ```
 
+Or:
+
+```
+nano ~/.bashrc
+```
+
 If the installation went well, you can type "deskcraft" in the terminal and start using it.
 
 ## Uninstalling
@@ -96,6 +102,12 @@ Después de que lo ejecutes, posiblemente te salga un mensaje diciendo que ponga
 
 ```
 nano ~/.zshrc
+```
+
+O también si usas Bash:
+
+```
+nano ~/.bashrc
 ```
 
 Ya si la instalación salió bien, podras poner "deskcraft" en la terminal y empezar a usarlo.
